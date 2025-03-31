@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am paraguayan dev, founder of Oré Developers
+I am Paraguayan dev, founder of Oré Developers
